@@ -1,0 +1,13 @@
+# Terraform directories
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional editor files
+*.swp
+*.vscode/
